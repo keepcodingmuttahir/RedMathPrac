@@ -1,6 +1,5 @@
 package com.redmath.session1.ApplicationTest;
 
-
 import org.hamcrest.Matchers;
 import org.junit.jupiter.api.Test;
 import org.springframework.beans.factory.annotation.Autowired;
